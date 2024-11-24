@@ -1,0 +1,2 @@
+# store-registration
+general store
